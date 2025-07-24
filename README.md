@@ -1,8 +1,8 @@
-# 🧠 AI-First CRM HCP Module – LogInteractionScreen
+# 🧠 CRM HCP Module – LogInteractionScreen
 
 ## 📌 Project Overview
 
-**AI-First CRM HCP Module** focuses on designing and developing the **Log Interaction Screen** for a modern Customer Relationship Management (CRM) system tailored specifically for **Healthcare Professionals (HCPs)**. This screen is designed from the perspective of a life science expert, enabling field representatives to record and manage interactions with HCPs either through a **structured form** or an **AI-powered conversational interface**.
+**CRM HCP Module** focuses on designing and developing the **Log Interaction Screen** for a modern Customer Relationship Management (CRM) system tailored specifically for **Healthcare Professionals (HCPs)**. This screen is designed from the perspective of a life science expert, enabling field representatives to record and manage interactions with HCPs either through a **structured form** or an **AI-powered conversational interface**.
 
 ## 🎯 Objective
 
