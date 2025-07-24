@@ -59,5 +59,10 @@ Below are the five core tools implemented within the LangGraph agent:
 - Uses **Groq's** inference engine for blazing-fast access to `gemma2-9b-it` and optionally `llama-3.3-70b-versatile`.
 - A dedicated API key is used to authenticate requests.
 
+## 📽️ Demo
+
+👉 [Watch Demo Video](https://drive.google.com/drive/folders/1-OXRrQKDTDV7moANFVyc8_UC_T4dXHcG?usp=sharing)
+
+
 ![WhatsApp Image 2025-07-20 at 8 46 46 PM](https://github.com/user-attachments/assets/3b05bff0-4b03-4cdf-9d1b-d37effe8388f)
 
