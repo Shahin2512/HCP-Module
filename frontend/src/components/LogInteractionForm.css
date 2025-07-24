@@ -1,0 +1,23 @@
+/* Styles for LogInteractionForm.jsx that cannot be directly in JS object */
+
+.ai-suggested-list {
+    list-style-type: none; /* Remove default bullet points */
+    padding-left: 0;
+    margin: 0;
+    font-size: 13px;
+    color: #555;
+}
+
+.ai-suggested-list li {
+    margin-bottom: 5px;
+    padding-left: 15px; /* Indent like a bullet */
+    position: relative;
+}
+
+.ai-suggested-list li::before { /* Correct CSS for pseudo-element */
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #007bff; /* Blue bullet */
+    font-weight: bold;
+}
